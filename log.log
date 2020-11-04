@@ -1,0 +1,767 @@
+04.11.2020 12:47:55.582 [main] INFO - weight added to com.trains.railwayCarriages.RailwayCarriage with id 3390ec88-df3a-4c89-9ec6-c81f0cf667b7
+04.11.2020 12:48:52.300 [main] INFO - weight added to com.trains.railwayCarriages.RailwayCarriage with id 11fb58b5-9fdc-490f-a53c-d6e2fd113dce
+04.11.2020 12:53:54.089 [main] INFO - length changed in RailwayCarriage with id 752d9f67-e80d-42e0-94d5-fb3e848793dd
+04.11.2020 12:53:54.102 [main] INFO - weight added to RailwayCarriage with id 40922e59-0c93-402c-a536-c1e2bc929f8f
+04.11.2020 12:59:58.918 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 12:59:58.930 [main] INFO - RailwayCarriage 17e8b17a-7140-464f-ae21-d937da01aac0 ------> RailwayCarriage 6909cc8f-f4f0-4488-a38b-94ea0abeefb8
+04.11.2020 12:59:58.934 [main] INFO - RailwayCarriage 6909cc8f-f4f0-4488-a38b-94ea0abeefb8 ------> RailwayCarriage 36d98cd0-633d-4943-8c40-3817248b7b6a
+04.11.2020 13:01:30.681 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 13:02:25.341 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 13:02:25.361 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 13:02:25.366 [main] INFO - RailwayCarriage e788991d-517f-4188-bb0e-61d00c40ad99 ------> RailwayCarriage c025d883-de0e-4bc3-93ce-80c20543d3b9
+04.11.2020 13:02:25.372 [main] INFO - RailwayCarriage c025d883-de0e-4bc3-93ce-80c20543d3b9 ------> RailwayCarriage b95ec49f-0ac8-4b04-ac1e-ecbf3e45afe6
+04.11.2020 13:02:25.402 [main] INFO - length changed in RailwayCarriage with id 973c6ee8-bc4b-45ec-9f82-111ef1667b79
+04.11.2020 13:02:25.408 [main] INFO - weight added to RailwayCarriage with id 4cdd52bf-f82a-4add-af92-406033aff9f5
+04.11.2020 13:03:16.603 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 13:03:16.621 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 13:03:16.623 [main] INFO - RailwayCarriage ea27c7cc-2759-47b8-8d44-fbe8f8b5d158 ------> RailwayCarriage 6a1dc931-83f1-4185-8b66-1a9e9fb3946d
+04.11.2020 13:03:16.626 [main] INFO - RailwayCarriage 6a1dc931-83f1-4185-8b66-1a9e9fb3946d ------> RailwayCarriage 26939d71-b75f-485a-8412-549ec3a47435
+04.11.2020 13:03:16.664 [main] INFO - length changed in RailwayCarriage with id cd46730c-0ca6-4615-9f9f-01132eac4ac7
+04.11.2020 13:03:16.681 [main] INFO - weight added to RailwayCarriage with id 192e620f-3aba-4292-bbd0-5547744d895e
+04.11.2020 13:11:46.288 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 13:12:33.162 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 13:12:33.182 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 13:21:07.566 [main] INFO - age changed in com.trains.users.User with firstName Vadim
+04.11.2020 13:26:26.039 [main] INFO - a machinist named Vadim now receives a salary of 20
+04.11.2020 13:34:34.092 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:34:34.101 [main] INFO - the driver Vadim was assigned to the locomotiveb4dfcadf-0366-4b2b-9694-d20204fad6e7
+04.11.2020 13:34:34.102 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:35:53.959 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:36:30.417 [main] INFO - the driver Vadim was assigned to the locomotive083d252a-cf01-413e-93c3-588149317495
+04.11.2020 13:36:46.772 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:39:24.760 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:39:24.779 [main] INFO - the driver Vadim was assigned to the locomotive80d796ae-2138-43ba-ac94-3b8dffe9c8b1
+04.11.2020 13:39:24.779 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:42:13.346 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:42:13.353 [main] INFO - the driver Vadim was assigned to the locomotive2ed0f75e-d063-4a28-90a0-88cf5ae770f2
+04.11.2020 13:42:13.354 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:42:13.445 [main] INFO - the driver Vadim was assigned to the locomotiveb9062a3e-b750-4207-a98f-32aa4c86f688
+04.11.2020 13:43:03.708 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:43:03.715 [main] INFO - the driver Vadim was assigned to the locomotive1c7393b1-e896-4d11-af61-b212b7d77698
+04.11.2020 13:43:03.715 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:43:03.758 [main] INFO - the driver Vadim was assigned to the locomotivee7389b6c-bfd7-480f-b77e-71c4771414f1
+04.11.2020 13:43:44.992 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:43:44.999 [main] INFO - the driver Vadim was assigned to the locomotive908c0afe-d1a1-4cf7-86d1-0e5675fc4d07
+04.11.2020 13:43:45.000 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 13:43:45.028 [main] INFO - the driver Vadim was assigned to the locomotive251996ad-b689-457e-aa2d-8748739b0bab
+04.11.2020 13:53:20.965 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 13:53:20.971 [main] INFO - RailwayCarriage 452ccee2-90d3-4229-af37-23308fe49168 ------> RailwayCarriage a2966677-0ef1-4bb5-a8e5-853f6e61ad84
+04.11.2020 13:53:20.973 [main] INFO - RailwayCarriage a2966677-0ef1-4bb5-a8e5-853f6e61ad84 ------> RailwayCarriage 025f116a-c3cd-4204-991f-6b6725ea8d47
+04.11.2020 13:53:20.987 [main] INFO - length changed in RailwayCarriage with id 321715ca-86de-434a-9273-53cf258c97ad
+04.11.2020 13:53:20.993 [main] INFO - weight added to RailwayCarriage with id c195b168-b7b9-4c3c-b40e-ae8bb655c9a3
+04.11.2020 13:54:55.024 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 13:54:55.029 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 13:58:03.366 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 13:58:03.373 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 13:58:15.529 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 13:58:15.538 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 13:59:46.144 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 13:59:46.151 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:00:02.392 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:00:02.400 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:00:02.401 [main] INFO - the current capacity of the Railway Carriage c73e9da4-cb4a-44fd-8459-a362b2d75268 has been reduced by 30
+04.11.2020 14:00:02.401 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage c73e9da4-cb4a-44fd-8459-a362b2d75268
+04.11.2020 14:00:49.285 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:00:49.292 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:00:49.294 [main] INFO - cargo does not fit into the Railway Carriage 77bc09c7-c56d-458f-ac5e-b65e718ceb7f
+04.11.2020 14:06:59.390 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:06:59.397 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:06:59.398 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:06:59.398 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:06:59.398 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:06:59.398 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:06:59.399 [main] INFO - the current capacity of the Railway Carriage cdc60f42-4f09-44c1-8c39-42f547f94abd has been reduced by 3000
+04.11.2020 14:06:59.400 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage cdc60f42-4f09-44c1-8c39-42f547f94abd
+04.11.2020 14:06:59.400 [main] INFO - the current capacity of the Railway Carriage cdc60f42-4f09-44c1-8c39-42f547f94abd has been reduced by 0
+04.11.2020 14:06:59.400 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage cdc60f42-4f09-44c1-8c39-42f547f94abd
+04.11.2020 14:06:59.400 [main] INFO - the current capacity of the Railway Carriage cdc60f42-4f09-44c1-8c39-42f547f94abd has been reduced by 0
+04.11.2020 14:06:59.400 [main] INFO - com.trains.Cargo table was added to the Railway Carriage cdc60f42-4f09-44c1-8c39-42f547f94abd
+04.11.2020 14:07:59.559 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:07:59.565 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:07:59.565 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:07:59.565 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:07:59.566 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:07:59.566 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:07:59.566 [main] INFO - the current capacity of the Railway Carriage 2d0faab7-21de-4c35-b717-728c7eb2720d has been reduced by 400
+04.11.2020 14:07:59.566 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 2d0faab7-21de-4c35-b717-728c7eb2720d
+04.11.2020 14:07:59.566 [main] INFO - the current capacity of the Railway Carriage 2d0faab7-21de-4c35-b717-728c7eb2720d has been reduced by 0
+04.11.2020 14:07:59.567 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 2d0faab7-21de-4c35-b717-728c7eb2720d
+04.11.2020 14:07:59.567 [main] INFO - the current capacity of the Railway Carriage 2d0faab7-21de-4c35-b717-728c7eb2720d has been reduced by 0
+04.11.2020 14:07:59.567 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 2d0faab7-21de-4c35-b717-728c7eb2720d
+04.11.2020 14:08:20.456 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:08:20.462 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:08:20.463 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:08:20.463 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:08:20.463 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:08:20.463 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:09:09.010 [main] INFO - the current capacity of the Railway Carriage 83ec9b96-2262-4d6f-9781-8e95e2d0575a has been reduced by 400
+04.11.2020 14:09:09.018 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 83ec9b96-2262-4d6f-9781-8e95e2d0575a
+04.11.2020 14:09:09.021 [main] INFO - the current capacity of the Railway Carriage 83ec9b96-2262-4d6f-9781-8e95e2d0575a has been reduced by 0
+04.11.2020 14:09:09.024 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 83ec9b96-2262-4d6f-9781-8e95e2d0575a
+04.11.2020 14:09:09.026 [main] INFO - the current capacity of the Railway Carriage 83ec9b96-2262-4d6f-9781-8e95e2d0575a has been reduced by 0
+04.11.2020 14:09:09.029 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 83ec9b96-2262-4d6f-9781-8e95e2d0575a
+04.11.2020 14:09:28.724 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:09:28.729 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:09:28.729 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:09:28.729 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:09:28.730 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:09:28.730 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:09:28.730 [main] INFO - the current capacity of the Railway Carriage 14521503-50ca-44b3-99e1-247f6c28f84d has been reduced by 400
+04.11.2020 14:09:28.730 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 14521503-50ca-44b3-99e1-247f6c28f84d
+04.11.2020 14:09:28.730 [main] INFO - the current capacity of the Railway Carriage 14521503-50ca-44b3-99e1-247f6c28f84d has been reduced by 0
+04.11.2020 14:09:28.731 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 14521503-50ca-44b3-99e1-247f6c28f84d
+04.11.2020 14:09:28.731 [main] INFO - the current capacity of the Railway Carriage 14521503-50ca-44b3-99e1-247f6c28f84d has been reduced by 0
+04.11.2020 14:09:28.731 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 14521503-50ca-44b3-99e1-247f6c28f84d
+04.11.2020 14:10:54.460 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:10:54.466 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:10:54.466 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:10:54.467 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:10:54.467 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:10:54.467 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:10:54.467 [main] INFO - the current capacity of the Railway Carriage ef72a55a-0c50-498f-bb8a-dad23ffd70b9 has been reduced by 400
+04.11.2020 14:10:54.467 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage ef72a55a-0c50-498f-bb8a-dad23ffd70b9
+04.11.2020 14:11:07.253 [main] INFO - the current capacity of the Railway Carriage ef72a55a-0c50-498f-bb8a-dad23ffd70b9 has been reduced by 0
+04.11.2020 14:11:07.255 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage ef72a55a-0c50-498f-bb8a-dad23ffd70b9
+04.11.2020 14:11:07.256 [main] INFO - the current capacity of the Railway Carriage ef72a55a-0c50-498f-bb8a-dad23ffd70b9 has been reduced by 0
+04.11.2020 14:11:07.257 [main] INFO - com.trains.Cargo table was added to the Railway Carriage ef72a55a-0c50-498f-bb8a-dad23ffd70b9
+04.11.2020 14:11:28.524 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:11:28.533 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:11:28.534 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 14:11:28.534 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 14:11:28.534 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 14:11:28.534 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 14:11:28.535 [main] INFO - the current capacity of the Railway Carriage a071d278-268b-46b3-8e6b-9ac3377c6674 has been reduced by 200
+04.11.2020 14:11:28.535 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage a071d278-268b-46b3-8e6b-9ac3377c6674
+04.11.2020 14:11:28.535 [main] INFO - the current capacity of the Railway Carriage a071d278-268b-46b3-8e6b-9ac3377c6674 has been reduced by 300
+04.11.2020 14:11:28.535 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage a071d278-268b-46b3-8e6b-9ac3377c6674
+04.11.2020 14:11:28.535 [main] INFO - the current capacity of the Railway Carriage a071d278-268b-46b3-8e6b-9ac3377c6674 has been reduced by 400
+04.11.2020 14:11:28.535 [main] INFO - com.trains.Cargo table was added to the Railway Carriage a071d278-268b-46b3-8e6b-9ac3377c6674
+04.11.2020 14:22:07.754 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:22:07.761 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:22:07.762 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 14:22:07.763 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 14:22:07.764 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 14:22:07.764 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 14:22:07.765 [main] INFO - the current capacity of the Railway Carriage 380804ad-bec8-4011-bdda-8d37990cb931 has been reduced by 200
+04.11.2020 14:22:07.766 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 380804ad-bec8-4011-bdda-8d37990cb931
+04.11.2020 14:22:07.767 [main] INFO - the current capacity of the Railway Carriage 380804ad-bec8-4011-bdda-8d37990cb931 has been reduced by 300
+04.11.2020 14:22:07.767 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 380804ad-bec8-4011-bdda-8d37990cb931
+04.11.2020 14:22:07.768 [main] INFO - the current capacity of the Railway Carriage 380804ad-bec8-4011-bdda-8d37990cb931 has been reduced by 400
+04.11.2020 14:22:07.769 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 380804ad-bec8-4011-bdda-8d37990cb931
+04.11.2020 14:22:07.770 [main] INFO - the cargo was unloaded from the Railway Carriage 380804ad-bec8-4011-bdda-8d37990cb931
+04.11.2020 14:23:32.856 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 14:23:32.864 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 14:23:32.864 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 14:23:32.865 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 14:23:32.865 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 14:23:32.866 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 14:23:32.867 [main] INFO - the current capacity of the Railway Carriage 5421605d-5a04-4496-a3f7-0f6c2dae85c5 has been reduced by 200
+04.11.2020 14:23:32.867 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 5421605d-5a04-4496-a3f7-0f6c2dae85c5
+04.11.2020 14:23:32.868 [main] INFO - the current capacity of the Railway Carriage 5421605d-5a04-4496-a3f7-0f6c2dae85c5 has been reduced by 300
+04.11.2020 14:23:32.869 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 5421605d-5a04-4496-a3f7-0f6c2dae85c5
+04.11.2020 14:23:32.869 [main] INFO - the current capacity of the Railway Carriage 5421605d-5a04-4496-a3f7-0f6c2dae85c5 has been reduced by 400
+04.11.2020 14:23:32.870 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 5421605d-5a04-4496-a3f7-0f6c2dae85c5
+04.11.2020 14:23:32.870 [main] INFO - the cargo was unloaded from the Railway Carriage 5421605d-5a04-4496-a3f7-0f6c2dae85c5
+04.11.2020 14:28:21.805 [main] INFO - the passenger Vadim received the seat 20
+04.11.2020 14:35:34.867 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:36:27.140 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:36:27.147 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 14:36:27.151 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 14:36:58.189 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:36:58.194 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 14:36:58.198 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 14:36:58.203 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 14:36:58.203 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 14:38:24.121 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:38:24.125 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 14:38:24.129 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 14:38:24.133 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 14:38:24.134 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 14:38:24.135 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 14:38:24.136 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 14:38:24.136 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 14:38:24.136 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 14:38:54.605 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:38:54.610 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 14:38:54.617 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 14:38:54.626 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 14:38:54.626 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 14:38:54.627 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 14:38:54.629 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 14:38:54.629 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 14:38:54.630 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 14:38:57.697 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:38:57.701 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 14:38:57.705 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 14:38:57.710 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 14:38:57.710 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 14:38:57.711 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 14:38:57.711 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 14:38:57.711 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 14:38:57.711 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 14:39:05.996 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:39:06.000 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:39:06.003 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 14:40:07.553 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:40:07.559 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:40:07.562 [main] INFO - the passenger Vadim received the seat 11
+04.11.2020 14:41:44.806 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:41:44.810 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:41:44.814 [main] INFO - the passenger Vadim received the seat 11
+04.11.2020 14:42:58.075 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:42:58.081 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:42:58.084 [main] INFO - the passenger Vadim received the seat 11
+04.11.2020 14:43:04.508 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:43:59.434 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:43:59.457 [main] INFO - the passenger Vadim received the seat 11
+04.11.2020 14:44:29.153 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:45:02.936 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:45:02.956 [main] INFO - the passenger Vadim received the seat 11
+04.11.2020 14:45:13.251 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:45:28.730 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:45:28.754 [main] INFO - the passenger Vadim received the seat 11
+04.11.2020 14:48:33.783 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:48:33.788 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:48:33.791 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 14:48:33.796 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 14:48:33.798 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 14:49:16.431 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:49:16.434 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 14:49:16.437 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 14:49:16.440 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 14:49:16.441 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 14:49:16.441 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 14:49:16.441 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 14:49:16.441 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 14:49:16.442 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 14:49:23.426 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:49:23.432 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:49:23.435 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 14:49:23.440 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 14:49:23.441 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 14:49:23.441 [main] INFO - a passenger named Vadim has booked a seat with number 30
+04.11.2020 14:49:23.442 [main] INFO - the passenger Vadim received the seat 30
+04.11.2020 14:49:23.442 [main] INFO - a passenger named neVadim has booked a seat with number 40
+04.11.2020 14:49:23.443 [main] INFO - the passenger neVadim received the seat 40
+04.11.2020 14:50:44.486 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:50:44.491 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:50:44.495 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 14:50:44.502 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 14:50:44.502 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 14:50:44.503 [main] INFO - a passenger named Vadim has booked a seat with number 30
+04.11.2020 14:50:44.503 [main] INFO - the passenger Vadim received the seat 30
+04.11.2020 14:50:44.504 [main] INFO - a passenger named neVadim has booked a seat with number 40
+04.11.2020 14:50:44.504 [main] INFO - the passenger neVadim received the seat 40
+04.11.2020 14:51:45.064 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:51:45.067 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 14:51:45.070 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 14:52:57.257 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:52:57.261 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 14:52:57.264 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 14:52:57.265 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 14:52:57.266 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 14:52:57.266 [main] INFO - a passenger named Vadim has booked a seat with number 30
+04.11.2020 14:52:57.266 [main] INFO - the passenger Vadim received the seat 30
+04.11.2020 14:52:57.267 [main] INFO - a passenger named neVadim has booked a seat with number 40
+04.11.2020 14:52:57.267 [main] INFO - the passenger neVadim received the seat 40
+04.11.2020 14:52:57.274 [main] INFO - the passenger Vadim received the seat 20
+04.11.2020 14:52:57.278 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:52:57.278 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 14:52:57.279 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 14:52:57.280 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 14:52:57.281 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 14:52:57.281 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 14:52:57.282 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 14:52:57.282 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 14:52:57.282 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 14:57:37.218 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 14:58:47.246 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:05:47.402 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:05:47.463 [main] INFO - RailwayCarriage 63183d9f-4f27-452d-8e64-64be9d4f1d3a ------> RailwayCarriage 7ac8056c-5c47-408c-b695-99be755d5256
+04.11.2020 16:05:47.467 [main] INFO - RailwayCarriage 7ac8056c-5c47-408c-b695-99be755d5256 ------> RailwayCarriage 02cfcdd4-6d5b-4966-b252-c69cb290d74b
+04.11.2020 16:05:47.526 [main] INFO - length changed in RailwayCarriage with id e68a8c20-32fd-407d-ab88-367e05cdd978
+04.11.2020 16:05:47.554 [main] INFO - weight added to RailwayCarriage with id cd5af72d-f555-481c-b81b-03e0e271d5e6
+04.11.2020 16:12:54.797 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:14:30.566 [main] INFO - weight added to RailwayCarriage with id 62c216dc-0bf8-4fb1-bf90-4e1dd9a93660
+04.11.2020 16:14:30.577 [main] INFO - length changed in RailwayCarriage with id 403dffa6-3f49-46a6-975d-cea74e4577f4
+04.11.2020 16:14:30.585 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:14:30.586 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:14:30.588 [main] INFO - cargo does not fit into the Railway Carriage d934c215-ae01-4eca-938f-fe409c658bf3
+04.11.2020 16:14:30.588 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:14:30.589 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:14:30.589 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:14:30.589 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:14:30.589 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:14:30.589 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:14:30.590 [main] INFO - the current capacity of the Railway Carriage 541149a7-c884-4778-9c9b-67ea70f1caf5 has been reduced by 200
+04.11.2020 16:14:30.591 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 541149a7-c884-4778-9c9b-67ea70f1caf5
+04.11.2020 16:14:30.591 [main] INFO - the current capacity of the Railway Carriage 541149a7-c884-4778-9c9b-67ea70f1caf5 has been reduced by 300
+04.11.2020 16:14:30.592 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 541149a7-c884-4778-9c9b-67ea70f1caf5
+04.11.2020 16:14:30.592 [main] INFO - the current capacity of the Railway Carriage 541149a7-c884-4778-9c9b-67ea70f1caf5 has been reduced by 400
+04.11.2020 16:14:30.593 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 541149a7-c884-4778-9c9b-67ea70f1caf5
+04.11.2020 16:14:30.594 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:14:30.594 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:14:30.594 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:14:30.595 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:14:30.596 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:14:30.597 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:14:30.598 [main] INFO - the current capacity of the Railway Carriage 9070e936-bce3-4ea2-ab69-be168def8557 has been reduced by 200
+04.11.2020 16:14:30.599 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 9070e936-bce3-4ea2-ab69-be168def8557
+04.11.2020 16:14:30.600 [main] INFO - the current capacity of the Railway Carriage 9070e936-bce3-4ea2-ab69-be168def8557 has been reduced by 300
+04.11.2020 16:14:30.601 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 9070e936-bce3-4ea2-ab69-be168def8557
+04.11.2020 16:14:30.601 [main] INFO - the current capacity of the Railway Carriage 9070e936-bce3-4ea2-ab69-be168def8557 has been reduced by 400
+04.11.2020 16:14:30.601 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 9070e936-bce3-4ea2-ab69-be168def8557
+04.11.2020 16:14:30.602 [main] INFO - the cargo was unloaded from the Railway Carriage 9070e936-bce3-4ea2-ab69-be168def8557
+04.11.2020 16:14:31.324 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:14:31.402 [main] INFO - the passenger Vadim received the seat 20
+04.11.2020 16:14:31.404 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:14:31.405 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 16:14:31.407 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 16:14:31.408 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 16:14:31.409 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 16:14:31.411 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 16:14:31.412 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 16:14:31.413 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 16:14:31.414 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 16:14:31.416 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:14:31.417 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 16:14:31.418 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 16:14:31.418 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 16:14:31.418 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 16:14:31.419 [main] INFO - a passenger named Vadim has booked a seat with number 30
+04.11.2020 16:14:31.419 [main] INFO - the passenger Vadim received the seat 30
+04.11.2020 16:14:31.420 [main] INFO - a passenger named neVadim has booked a seat with number 40
+04.11.2020 16:14:31.420 [main] INFO - the passenger neVadim received the seat 40
+04.11.2020 16:14:31.427 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:14:31.434 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:14:31.439 [main] INFO - age changed in com.trains.users.User with firstName Vadim
+04.11.2020 16:14:31.447 [main] INFO - the driver Vadim was assigned to the locomotive30da92d9-b9fe-425a-a31a-45a261ba4e5b
+04.11.2020 16:14:31.451 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:14:31.451 [main] INFO - the driver Vadim was assigned to the locomotive5ebb6524-e5c2-4991-b5e1-4f4ae77dd1f8
+04.11.2020 16:14:31.452 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:14:31.463 [main] INFO - a machinist named Vadim now receives a salary of 20
+04.11.2020 16:15:25.492 [main] INFO - weight added to RailwayCarriage with id bd08fe4a-2a6b-4278-a1af-e9a5e310583c
+04.11.2020 16:15:25.507 [main] INFO - length changed in RailwayCarriage with id 23e904ec-2328-40cd-bfb2-a097e7c4f095
+04.11.2020 16:15:25.535 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:15:25.535 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:15:25.536 [main] INFO - cargo does not fit into the Railway Carriage 1ec75789-289e-41df-8e34-28ae5b1d8eba
+04.11.2020 16:15:25.537 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:15:25.537 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:15:25.538 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:15:25.538 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:15:25.538 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:15:25.538 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:15:25.538 [main] INFO - the current capacity of the Railway Carriage e53dcda6-d2e2-46c8-acff-0db80e05b221 has been reduced by 200
+04.11.2020 16:15:25.539 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage e53dcda6-d2e2-46c8-acff-0db80e05b221
+04.11.2020 16:15:25.539 [main] INFO - the current capacity of the Railway Carriage e53dcda6-d2e2-46c8-acff-0db80e05b221 has been reduced by 300
+04.11.2020 16:15:25.539 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage e53dcda6-d2e2-46c8-acff-0db80e05b221
+04.11.2020 16:15:25.539 [main] INFO - the current capacity of the Railway Carriage e53dcda6-d2e2-46c8-acff-0db80e05b221 has been reduced by 400
+04.11.2020 16:15:25.539 [main] INFO - com.trains.Cargo table was added to the Railway Carriage e53dcda6-d2e2-46c8-acff-0db80e05b221
+04.11.2020 16:15:25.540 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:15:25.540 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:15:25.540 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:15:25.541 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:15:25.541 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:15:25.542 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:15:25.542 [main] INFO - the current capacity of the Railway Carriage 7ea8bfac-9cf7-4c5d-abe1-9e9fe1028cb4 has been reduced by 200
+04.11.2020 16:15:25.542 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 7ea8bfac-9cf7-4c5d-abe1-9e9fe1028cb4
+04.11.2020 16:15:25.543 [main] INFO - the current capacity of the Railway Carriage 7ea8bfac-9cf7-4c5d-abe1-9e9fe1028cb4 has been reduced by 300
+04.11.2020 16:15:25.543 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 7ea8bfac-9cf7-4c5d-abe1-9e9fe1028cb4
+04.11.2020 16:15:25.543 [main] INFO - the current capacity of the Railway Carriage 7ea8bfac-9cf7-4c5d-abe1-9e9fe1028cb4 has been reduced by 400
+04.11.2020 16:15:25.543 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 7ea8bfac-9cf7-4c5d-abe1-9e9fe1028cb4
+04.11.2020 16:15:25.544 [main] INFO - the cargo was unloaded from the Railway Carriage 7ea8bfac-9cf7-4c5d-abe1-9e9fe1028cb4
+04.11.2020 16:15:25.576 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:15:25.582 [main] INFO - the passenger Vadim received the seat 20
+04.11.2020 16:15:25.583 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:15:25.584 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 16:15:25.585 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 16:15:25.585 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 16:15:25.586 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 16:15:25.587 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 16:15:25.587 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 16:15:25.588 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 16:15:25.588 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 16:15:25.588 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:15:25.589 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 16:15:25.589 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 16:15:25.589 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 16:15:25.589 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 16:15:25.589 [main] INFO - a passenger named Vadim has booked a seat with number 30
+04.11.2020 16:15:25.589 [main] INFO - the passenger Vadim received the seat 30
+04.11.2020 16:15:25.589 [main] INFO - a passenger named neVadim has booked a seat with number 40
+04.11.2020 16:15:25.590 [main] INFO - the passenger neVadim received the seat 40
+04.11.2020 16:15:25.591 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:15:25.592 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:15:25.595 [main] INFO - age changed in com.trains.users.User with firstName Vadim
+04.11.2020 16:15:25.598 [main] INFO - the driver Vadim was assigned to the locomotive8b659597-c5c5-4f1e-ac10-8f1b8f95a431
+04.11.2020 16:15:25.599 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:15:25.600 [main] INFO - the driver Vadim was assigned to the locomotivea7a2284a-9605-4db5-90cf-caabc9de83b9
+04.11.2020 16:15:25.600 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:15:25.604 [main] INFO - a machinist named Vadim now receives a salary of 20
+04.11.2020 16:17:07.022 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:17:07.035 [main] INFO - RailwayCarriage 050fd03f-5e2c-4e5a-a1f5-b79ae4b8796d ------> RailwayCarriage 502ab27d-7b91-48be-8181-b5a1b5485d60
+04.11.2020 16:17:07.042 [main] INFO - RailwayCarriage 502ab27d-7b91-48be-8181-b5a1b5485d60 ------> RailwayCarriage af270872-4762-408d-8873-7e9522450dd3
+04.11.2020 16:17:07.049 [main] INFO - weight added to RailwayCarriage with id d87f42aa-e1d4-4923-b8b5-029916040bf2
+04.11.2020 16:17:07.054 [main] INFO - length changed in RailwayCarriage with id 71d3ca42-d9bb-47dc-a1a4-218b8638e3bc
+04.11.2020 16:17:07.062 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:17:07.066 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:17:07.068 [main] INFO - cargo does not fit into the Railway Carriage 238f838c-557e-42c7-bfa8-0f80b605ad53
+04.11.2020 16:17:07.069 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:17:07.072 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:17:07.073 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:17:07.073 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:17:07.073 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:17:07.074 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:17:07.075 [main] INFO - the current capacity of the Railway Carriage cec0b3a4-4aeb-4aef-a5bd-b79fb2787e27 has been reduced by 200
+04.11.2020 16:17:07.075 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage cec0b3a4-4aeb-4aef-a5bd-b79fb2787e27
+04.11.2020 16:17:07.076 [main] INFO - the current capacity of the Railway Carriage cec0b3a4-4aeb-4aef-a5bd-b79fb2787e27 has been reduced by 300
+04.11.2020 16:17:07.077 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage cec0b3a4-4aeb-4aef-a5bd-b79fb2787e27
+04.11.2020 16:17:07.077 [main] INFO - the current capacity of the Railway Carriage cec0b3a4-4aeb-4aef-a5bd-b79fb2787e27 has been reduced by 400
+04.11.2020 16:17:07.078 [main] INFO - com.trains.Cargo table was added to the Railway Carriage cec0b3a4-4aeb-4aef-a5bd-b79fb2787e27
+04.11.2020 16:17:07.079 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:17:07.080 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:17:07.081 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:17:07.082 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:17:07.082 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:17:07.083 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:17:07.084 [main] INFO - the current capacity of the Railway Carriage 90b0f439-d74a-4a1a-8782-494053d6a6f8 has been reduced by 200
+04.11.2020 16:17:07.085 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 90b0f439-d74a-4a1a-8782-494053d6a6f8
+04.11.2020 16:17:07.086 [main] INFO - the current capacity of the Railway Carriage 90b0f439-d74a-4a1a-8782-494053d6a6f8 has been reduced by 300
+04.11.2020 16:17:07.087 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 90b0f439-d74a-4a1a-8782-494053d6a6f8
+04.11.2020 16:17:07.088 [main] INFO - the current capacity of the Railway Carriage 90b0f439-d74a-4a1a-8782-494053d6a6f8 has been reduced by 400
+04.11.2020 16:17:07.088 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 90b0f439-d74a-4a1a-8782-494053d6a6f8
+04.11.2020 16:17:07.089 [main] INFO - the cargo was unloaded from the Railway Carriage 90b0f439-d74a-4a1a-8782-494053d6a6f8
+04.11.2020 16:17:07.116 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:17:07.124 [main] INFO - the passenger Vadim received the seat 20
+04.11.2020 16:17:07.126 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:17:07.126 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 16:17:07.126 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 16:17:07.127 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 16:17:07.128 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 16:17:07.129 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 16:17:07.129 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 16:17:07.129 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 16:17:07.130 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 16:17:07.131 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:17:07.132 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 16:17:07.133 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 16:17:07.133 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 16:17:07.134 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 16:17:07.134 [main] INFO - a passenger named Vadim has booked a seat with number 30
+04.11.2020 16:17:07.134 [main] INFO - the passenger Vadim received the seat 30
+04.11.2020 16:17:07.135 [main] INFO - a passenger named neVadim has booked a seat with number 40
+04.11.2020 16:17:07.135 [main] INFO - the passenger neVadim received the seat 40
+04.11.2020 16:17:07.139 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:17:07.141 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:17:07.146 [main] INFO - age changed in com.trains.users.User with firstName Vadim
+04.11.2020 16:17:07.151 [main] INFO - the driver Vadim was assigned to the locomotive3b013596-0359-4a00-9e29-951a808ef094
+04.11.2020 16:17:07.154 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:17:07.155 [main] INFO - the driver Vadim was assigned to the locomotivee50cca17-86cb-4be5-a1df-2a12ac279823
+04.11.2020 16:17:07.156 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:17:07.160 [main] INFO - a machinist named Vadim now receives a salary of 20
+04.11.2020 16:17:33.379 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:17:33.384 [main] INFO - RailwayCarriage 827855ee-2ead-44d8-874f-2d74d7701315 ------> RailwayCarriage d4d811f7-4800-4946-bafd-78c54319b8b6
+04.11.2020 16:17:33.387 [main] INFO - RailwayCarriage d4d811f7-4800-4946-bafd-78c54319b8b6 ------> RailwayCarriage e4e88bf2-8f14-478c-96aa-717398af1e6b
+04.11.2020 16:17:33.391 [main] INFO - weight added to RailwayCarriage with id f9818725-e4d5-48d3-9e64-9e82ec1323e3
+04.11.2020 16:17:33.395 [main] INFO - length changed in RailwayCarriage with id 44d5bf9c-3806-4d94-8673-d734318263cf
+04.11.2020 16:17:33.401 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:17:33.402 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:17:33.404 [main] INFO - cargo does not fit into the Railway Carriage 4d4c0742-ea5a-45c5-9f35-7e69b0b637d1
+04.11.2020 16:17:33.405 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:17:33.406 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:17:33.406 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:17:33.407 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:17:33.407 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:17:33.407 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:17:33.408 [main] INFO - the current capacity of the Railway Carriage 6da927ff-edb5-4f09-8fe8-1e21c6a27d94 has been reduced by 200
+04.11.2020 16:17:33.408 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 6da927ff-edb5-4f09-8fe8-1e21c6a27d94
+04.11.2020 16:17:33.408 [main] INFO - the current capacity of the Railway Carriage 6da927ff-edb5-4f09-8fe8-1e21c6a27d94 has been reduced by 300
+04.11.2020 16:17:33.409 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 6da927ff-edb5-4f09-8fe8-1e21c6a27d94
+04.11.2020 16:17:33.409 [main] INFO - the current capacity of the Railway Carriage 6da927ff-edb5-4f09-8fe8-1e21c6a27d94 has been reduced by 400
+04.11.2020 16:17:33.410 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 6da927ff-edb5-4f09-8fe8-1e21c6a27d94
+04.11.2020 16:17:33.410 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:17:33.411 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:17:33.411 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:17:33.411 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:17:33.412 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:17:33.412 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:17:33.412 [main] INFO - the current capacity of the Railway Carriage 751e70a7-0ba3-4d3a-94c6-e8093cc8c945 has been reduced by 200
+04.11.2020 16:17:33.413 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 751e70a7-0ba3-4d3a-94c6-e8093cc8c945
+04.11.2020 16:17:33.413 [main] INFO - the current capacity of the Railway Carriage 751e70a7-0ba3-4d3a-94c6-e8093cc8c945 has been reduced by 300
+04.11.2020 16:17:33.414 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 751e70a7-0ba3-4d3a-94c6-e8093cc8c945
+04.11.2020 16:17:33.415 [main] INFO - the current capacity of the Railway Carriage 751e70a7-0ba3-4d3a-94c6-e8093cc8c945 has been reduced by 400
+04.11.2020 16:17:33.415 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 751e70a7-0ba3-4d3a-94c6-e8093cc8c945
+04.11.2020 16:17:33.415 [main] INFO - the cargo was unloaded from the Railway Carriage 751e70a7-0ba3-4d3a-94c6-e8093cc8c945
+04.11.2020 16:17:33.448 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:17:33.455 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:17:33.459 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 16:17:33.459 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 16:17:33.461 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 16:17:33.462 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 16:17:33.464 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 16:17:33.465 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 16:17:33.466 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 16:17:33.467 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 16:17:33.468 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:17:33.469 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 16:17:33.470 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 16:17:33.471 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 16:17:33.472 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 16:17:33.473 [main] INFO - a passenger named Vadim has booked a seat with number 30
+04.11.2020 16:17:33.474 [main] INFO - the passenger Vadim received the seat 30
+04.11.2020 16:17:33.475 [main] INFO - a passenger named neVadim has booked a seat with number 40
+04.11.2020 16:17:33.476 [main] INFO - the passenger neVadim received the seat 40
+04.11.2020 16:17:33.480 [main] INFO - the passenger Vadim received the seat 20
+04.11.2020 16:17:33.488 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:17:33.490 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:17:33.499 [main] INFO - age changed in com.trains.users.User with firstName Vadim
+04.11.2020 16:17:33.509 [main] INFO - the driver Vadim was assigned to the locomotive9e7f77ed-2ee0-4e84-891a-9a9bdbaac58f
+04.11.2020 16:17:33.512 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:17:33.515 [main] INFO - the driver Vadim was assigned to the locomotive643312ab-920f-4a36-9eef-f362488ee8e4
+04.11.2020 16:17:33.516 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:17:33.527 [main] INFO - a machinist named Vadim now receives a salary of 20
+04.11.2020 16:19:13.939 [main] INFO - weight added to RailwayCarriage with id b7ea44a0-a631-40d2-8c47-2446b49ca195
+04.11.2020 16:19:13.948 [main] INFO - length changed in RailwayCarriage with id 927db004-2ac6-4624-8b6a-924fd2fde5e1
+04.11.2020 16:19:13.963 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:19:13.965 [main] INFO - RailwayCarriage 89a013b8-74b0-4936-ba95-2e96fcb6217c ------> RailwayCarriage 436cf832-f09a-4784-ac6a-697f798d02d8
+04.11.2020 16:19:13.966 [main] INFO - RailwayCarriage 436cf832-f09a-4784-ac6a-697f798d02d8 ------> RailwayCarriage 34bed265-8b37-4c89-b967-45be1db71e0d
+04.11.2020 16:19:13.969 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:19:13.970 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:19:13.970 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:19:13.971 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:19:13.971 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:19:13.972 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:19:13.973 [main] INFO - the current capacity of the Railway Carriage dc3d8515-eeef-41dd-9eab-262f89d5089f has been reduced by 200
+04.11.2020 16:19:13.973 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage dc3d8515-eeef-41dd-9eab-262f89d5089f
+04.11.2020 16:19:13.973 [main] INFO - the current capacity of the Railway Carriage dc3d8515-eeef-41dd-9eab-262f89d5089f has been reduced by 300
+04.11.2020 16:19:13.974 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage dc3d8515-eeef-41dd-9eab-262f89d5089f
+04.11.2020 16:19:13.975 [main] INFO - the current capacity of the Railway Carriage dc3d8515-eeef-41dd-9eab-262f89d5089f has been reduced by 400
+04.11.2020 16:19:13.975 [main] INFO - com.trains.Cargo table was added to the Railway Carriage dc3d8515-eeef-41dd-9eab-262f89d5089f
+04.11.2020 16:19:13.976 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:19:13.977 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:19:13.979 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:19:13.979 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:19:13.979 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:19:13.979 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:19:13.980 [main] INFO - the current capacity of the Railway Carriage f9ab59e2-4696-4990-8d8b-f96b052a993e has been reduced by 200
+04.11.2020 16:19:13.982 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage f9ab59e2-4696-4990-8d8b-f96b052a993e
+04.11.2020 16:19:13.982 [main] INFO - the current capacity of the Railway Carriage f9ab59e2-4696-4990-8d8b-f96b052a993e has been reduced by 300
+04.11.2020 16:19:13.983 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage f9ab59e2-4696-4990-8d8b-f96b052a993e
+04.11.2020 16:19:13.983 [main] INFO - the current capacity of the Railway Carriage f9ab59e2-4696-4990-8d8b-f96b052a993e has been reduced by 400
+04.11.2020 16:19:13.983 [main] INFO - com.trains.Cargo table was added to the Railway Carriage f9ab59e2-4696-4990-8d8b-f96b052a993e
+04.11.2020 16:19:13.983 [main] INFO - the cargo was unloaded from the Railway Carriage f9ab59e2-4696-4990-8d8b-f96b052a993e
+04.11.2020 16:19:14.010 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:19:14.011 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:19:14.012 [main] INFO - cargo does not fit into the Railway Carriage 206a543c-e9b7-429c-8d4b-d2c08a4a25be
+04.11.2020 16:19:14.023 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:19:14.031 [main] INFO - the passenger Vadim received the seat 20
+04.11.2020 16:19:14.032 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:19:14.032 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 16:19:14.035 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 16:19:14.036 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 16:19:14.037 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 16:19:14.038 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 16:19:14.040 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 16:19:14.041 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 16:19:14.042 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 16:19:14.044 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:19:14.045 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 16:19:14.046 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 16:19:14.047 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 16:19:14.048 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 16:19:14.049 [main] INFO - a passenger named Vadim has booked a seat with number 30
+04.11.2020 16:19:14.050 [main] INFO - the passenger Vadim received the seat 30
+04.11.2020 16:19:14.050 [main] INFO - a passenger named neVadim has booked a seat with number 40
+04.11.2020 16:19:14.051 [main] INFO - the passenger neVadim received the seat 40
+04.11.2020 16:19:14.054 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:19:14.063 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:19:14.069 [main] INFO - age changed in com.trains.users.User with firstName Vadim
+04.11.2020 16:19:14.073 [main] INFO - the driver Vadim was assigned to the locomotivefe0b51ff-99e1-44bc-bf9a-b05e0d0c604e
+04.11.2020 16:19:14.084 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:19:14.085 [main] INFO - the driver Vadim was assigned to the locomotiveeb1f36a8-a855-4cb6-91b8-954cc1597845
+04.11.2020 16:19:14.085 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:19:14.097 [main] INFO - a machinist named Vadim now receives a salary of 20
+04.11.2020 16:20:18.802 [main] INFO - weight added to RailwayCarriage with id ce86abf6-41f6-48d8-a42a-9440c02ac9a1
+04.11.2020 16:20:18.900 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:20:18.901 [main] INFO - RailwayCarriage fb998ab8-bb1c-4d64-b987-6e9e6a5e4010 ------> RailwayCarriage 022d4939-a305-485a-bad0-5767e21d0111
+04.11.2020 16:20:18.902 [main] INFO - RailwayCarriage 022d4939-a305-485a-bad0-5767e21d0111 ------> RailwayCarriage 527f2557-3519-4a08-8b64-ad4d3f100074
+04.11.2020 16:20:18.948 [main] INFO - length changed in RailwayCarriage with id 6c7b53c8-995d-4d0d-84c4-e7a293fcf8c3
+04.11.2020 16:20:48.758 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:20:48.769 [main] INFO - RailwayCarriage 1cda361f-727f-490e-a2f0-4d4a4e01f3a2 ------> RailwayCarriage a5a8ef06-1d27-4afb-9e2e-9ae6b56515d7
+04.11.2020 16:20:48.773 [main] INFO - RailwayCarriage a5a8ef06-1d27-4afb-9e2e-9ae6b56515d7 ------> RailwayCarriage f4323561-83fb-42b8-bae2-602efd323a06
+04.11.2020 16:20:48.779 [main] INFO - weight added to RailwayCarriage with id 348883a4-8846-4136-a292-252d9d39432b
+04.11.2020 16:20:48.784 [main] INFO - length changed in RailwayCarriage with id 135a7e6f-f9d3-4be4-bc5d-77e1be28a111
+04.11.2020 16:20:48.791 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:20:48.792 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:20:48.793 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:20:48.793 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:20:48.793 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:20:48.794 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:20:48.794 [main] INFO - the current capacity of the Railway Carriage ae0a498a-1e0a-4240-9f52-d28b49b04dc6 has been reduced by 200
+04.11.2020 16:20:48.795 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage ae0a498a-1e0a-4240-9f52-d28b49b04dc6
+04.11.2020 16:20:48.795 [main] INFO - the current capacity of the Railway Carriage ae0a498a-1e0a-4240-9f52-d28b49b04dc6 has been reduced by 300
+04.11.2020 16:20:48.795 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage ae0a498a-1e0a-4240-9f52-d28b49b04dc6
+04.11.2020 16:20:48.795 [main] INFO - the current capacity of the Railway Carriage ae0a498a-1e0a-4240-9f52-d28b49b04dc6 has been reduced by 400
+04.11.2020 16:20:48.796 [main] INFO - com.trains.Cargo table was added to the Railway Carriage ae0a498a-1e0a-4240-9f52-d28b49b04dc6
+04.11.2020 16:20:48.796 [main] INFO - the cargo was unloaded from the Railway Carriage ae0a498a-1e0a-4240-9f52-d28b49b04dc6
+04.11.2020 16:20:48.818 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:20:48.819 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:20:48.821 [main] INFO - cargo does not fit into the Railway Carriage e885d78c-b2ab-4054-88be-2c0d5e538510
+04.11.2020 16:20:48.822 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:20:48.823 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:20:48.823 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 16:20:48.824 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 16:20:48.825 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 16:20:48.826 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 16:20:48.827 [main] INFO - the current capacity of the Railway Carriage cdf24b0a-781c-4c45-aa9b-42c417009549 has been reduced by 200
+04.11.2020 16:20:48.827 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage cdf24b0a-781c-4c45-aa9b-42c417009549
+04.11.2020 16:20:48.827 [main] INFO - the current capacity of the Railway Carriage cdf24b0a-781c-4c45-aa9b-42c417009549 has been reduced by 300
+04.11.2020 16:20:48.827 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage cdf24b0a-781c-4c45-aa9b-42c417009549
+04.11.2020 16:20:48.828 [main] INFO - the current capacity of the Railway Carriage cdf24b0a-781c-4c45-aa9b-42c417009549 has been reduced by 400
+04.11.2020 16:20:48.828 [main] INFO - com.trains.Cargo table was added to the Railway Carriage cdf24b0a-781c-4c45-aa9b-42c417009549
+04.11.2020 16:20:48.831 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:20:48.840 [main] INFO - the passenger Vadim received the seat 20
+04.11.2020 16:20:48.850 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:20:48.855 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 16:20:48.855 [main] INFO - the passenger Vadim received the seat 1
+04.11.2020 16:20:48.859 [main] INFO - a passenger named neVadim has booked a seat with number 2
+04.11.2020 16:20:48.860 [main] INFO - the passenger neVadim received the seat 2
+04.11.2020 16:20:48.861 [main] INFO - a passenger named Vadim has booked a seat with number 3
+04.11.2020 16:20:48.865 [main] INFO - the passenger Vadim received the seat 3
+04.11.2020 16:20:48.865 [main] INFO - a passenger named neVadim has booked a seat with number 4
+04.11.2020 16:20:48.866 [main] INFO - the passenger neVadim received the seat 4
+04.11.2020 16:20:48.868 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 16:20:48.869 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 16:20:48.873 [main] INFO - the passenger Vadim received the seat 10
+04.11.2020 16:20:48.874 [main] INFO - a passenger named neVadim has booked a seat with number 20
+04.11.2020 16:20:48.875 [main] INFO - the passenger neVadim received the seat 20
+04.11.2020 16:20:48.876 [main] INFO - a passenger named Vadim has booked a seat with number 30
+04.11.2020 16:20:48.878 [main] INFO - the passenger Vadim received the seat 30
+04.11.2020 16:20:48.879 [main] INFO - a passenger named neVadim has booked a seat with number 40
+04.11.2020 16:20:48.881 [main] INFO - the passenger neVadim received the seat 40
+04.11.2020 16:20:48.889 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 16:20:48.892 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 16:20:48.896 [main] INFO - age changed in com.trains.users.User with firstName Vadim
+04.11.2020 16:20:48.899 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:20:48.900 [main] INFO - the driver Vadim was assigned to the locomotive385f5b25-d997-4b61-bc46-bc8d473c11dc
+04.11.2020 16:20:48.900 [main] INFO - a machinist named Vadim now receives a salary of 200
+04.11.2020 16:20:48.903 [main] INFO - the driver Vadim was assigned to the locomotivecf73f9f6-326d-40bd-89d0-133ec11f144c
+04.11.2020 16:20:48.909 [main] INFO - a machinist named Vadim now receives a salary of 20
+04.11.2020 17:51:22.661 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:51:22.708 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 17:51:50.089 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:51:50.101 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:51:50.102 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 17:51:50.104 [main] INFO - a passenger named Vadim has booked a seat with number 2
+04.11.2020 17:54:06.483 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:54:06.486 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 17:56:49.347 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:56:49.357 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:57:28.784 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:57:28.803 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:58:17.960 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:58:17.978 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:58:17.978 [main] INFO - a passenger named Vadim has booked a seat with number 10
+04.11.2020 17:59:32.083 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 17:59:32.087 [main] INFO - a passenger named Vadim has booked a seat with number 20
+04.11.2020 18:04:33.019 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:04:33.023 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:04:33.027 [main] INFO - a passenger named Vadi2 has booked a seat with number 2
+04.11.2020 18:04:33.028 [main] INFO - a passenger named Vadi3 has booked a seat with number 3
+04.11.2020 18:04:33.028 [main] INFO - a passenger named Vadi4 has booked a seat with number 4
+04.11.2020 18:04:33.029 [main] INFO - a passenger named Vadi5 has booked a seat with number 5
+04.11.2020 18:04:33.030 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:21:32.790 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:21:32.795 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:21:32.798 [main] INFO - a passenger named Alex has booked a seat with number 2
+04.11.2020 18:21:32.799 [main] INFO - a passenger named Dima has booked a seat with number 5
+04.11.2020 18:21:32.799 [main] INFO - a passenger named Vova has booked a seat with number 35
+04.11.2020 18:22:36.919 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:22:36.925 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:22:36.927 [main] INFO - a passenger named Alex has booked a seat with number 2
+04.11.2020 18:22:36.928 [main] INFO - a passenger named Dima has booked a seat with number 5
+04.11.2020 18:22:36.928 [main] INFO - a passenger named Vova has booked a seat with number 35
+04.11.2020 18:23:34.988 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:23:34.995 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:23:34.998 [main] INFO - a passenger named Alex has booked a seat with number 2
+04.11.2020 18:23:34.998 [main] INFO - a passenger named Dima has booked a seat with number 5
+04.11.2020 18:23:34.999 [main] INFO - a passenger named Vova has booked a seat with number 35
+04.11.2020 18:24:09.011 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:24:09.030 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:24:09.032 [main] INFO - a passenger named Alex has booked a seat with number 2
+04.11.2020 18:24:09.037 [main] INFO - a passenger named Dima has booked a seat with number 5
+04.11.2020 18:24:09.038 [main] INFO - a passenger named Vova has booked a seat with number 35
+04.11.2020 18:25:42.873 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:25:42.878 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:25:42.881 [main] INFO - a passenger named Alex has booked a seat with number 2
+04.11.2020 18:25:42.881 [main] INFO - a passenger named Dima has booked a seat with number 5
+04.11.2020 18:25:42.881 [main] INFO - a passenger named Vova has booked a seat with number 35
+04.11.2020 18:26:58.327 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:26:58.334 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:26:58.336 [main] INFO - a passenger named Alex has booked a seat with number 2
+04.11.2020 18:26:58.337 [main] INFO - a passenger named Dima has booked a seat with number 5
+04.11.2020 18:26:58.338 [main] INFO - a passenger named Vova has booked a seat with number 35
+04.11.2020 18:26:58.338 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:35:32.797 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:35:32.803 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:35:32.806 [main] INFO - a passenger named Alex has booked a seat with number 2
+04.11.2020 18:35:32.807 [main] INFO - a passenger named Dima has booked a seat with number 5
+04.11.2020 18:35:32.807 [main] INFO - a passenger named Vova has booked a seat with number 35
+04.11.2020 18:35:32.808 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 18:35:32.809 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 18:35:32.809 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 18:35:32.810 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 18:35:32.810 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 18:35:32.810 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 18:35:32.810 [main] INFO - the current capacity of the Railway Carriage 4107cb9e-f89e-4907-85f4-df647b4af96d has been reduced by 10
+04.11.2020 18:35:32.811 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 4107cb9e-f89e-4907-85f4-df647b4af96d
+04.11.2020 18:35:32.811 [main] INFO - the current capacity of the Railway Carriage 4107cb9e-f89e-4907-85f4-df647b4af96d has been reduced by 30
+04.11.2020 18:35:32.812 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 4107cb9e-f89e-4907-85f4-df647b4af96d
+04.11.2020 18:35:32.812 [main] INFO - the current capacity of the Railway Carriage 4107cb9e-f89e-4907-85f4-df647b4af96d has been reduced by 50
+04.11.2020 18:35:32.812 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 4107cb9e-f89e-4907-85f4-df647b4af96d
+04.11.2020 18:35:32.814 [main] INFO - a machinist named Vadim now receives a salary of 100
+04.11.2020 18:35:32.814 [main] INFO - the driver Vadim was assigned to the locomotivef5b48f1c-f241-41fb-bf1f-28c8f27735f1
+04.11.2020 18:35:32.819 [main] INFO - RailwayCarriage f5b48f1c-f241-41fb-bf1f-28c8f27735f1 ------> RailwayCarriage e79f9f0c-a2fc-47f5-8d5f-64afb797b9d8
+04.11.2020 18:35:32.820 [main] INFO - RailwayCarriage e79f9f0c-a2fc-47f5-8d5f-64afb797b9d8 ------> RailwayCarriage 4107cb9e-f89e-4907-85f4-df647b4af96d
+04.11.2020 18:36:32.604 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:36:32.619 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:36:32.621 [main] INFO - a passenger named Alex has booked a seat with number 2
+04.11.2020 18:36:32.622 [main] INFO - a passenger named Dima has booked a seat with number 5
+04.11.2020 18:36:32.622 [main] INFO - a passenger named Vova has booked a seat with number 35
+04.11.2020 18:36:32.623 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 18:36:32.624 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 18:36:32.624 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 18:36:32.624 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 18:36:32.625 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 18:36:32.625 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 18:36:32.625 [main] INFO - the current capacity of the Railway Carriage cc198a4f-0ee7-4aa3-bfb8-033f675ae9a2 has been reduced by 10
+04.11.2020 18:36:32.625 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage cc198a4f-0ee7-4aa3-bfb8-033f675ae9a2
+04.11.2020 18:36:32.625 [main] INFO - the current capacity of the Railway Carriage cc198a4f-0ee7-4aa3-bfb8-033f675ae9a2 has been reduced by 30
+04.11.2020 18:36:32.625 [main] INFO - com.trains.Cargo table was added to the Railway Carriage cc198a4f-0ee7-4aa3-bfb8-033f675ae9a2
+04.11.2020 18:36:32.626 [main] INFO - the current capacity of the Railway Carriage cc198a4f-0ee7-4aa3-bfb8-033f675ae9a2 has been reduced by 50
+04.11.2020 18:36:32.626 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage cc198a4f-0ee7-4aa3-bfb8-033f675ae9a2
+04.11.2020 18:36:32.627 [main] INFO - a machinist named Vadim now receives a salary of 100
+04.11.2020 18:36:32.628 [main] INFO - the driver Vadim was assigned to the locomotive16fccbf3-6004-466d-9e44-12bfd4350e38
+04.11.2020 18:36:32.632 [main] INFO - RailwayCarriage 16fccbf3-6004-466d-9e44-12bfd4350e38 ------> RailwayCarriage adf36a30-8db5-4fe8-b97e-df3b63efe173
+04.11.2020 18:36:32.632 [main] INFO - RailwayCarriage adf36a30-8db5-4fe8-b97e-df3b63efe173 ------> RailwayCarriage cc198a4f-0ee7-4aa3-bfb8-033f675ae9a2
+04.11.2020 18:37:23.521 [main] INFO - a list containing the numbers of available seats is generated
+04.11.2020 18:37:23.527 [main] INFO - a passenger named Vadim has booked a seat with number 1
+04.11.2020 18:37:23.532 [main] INFO - a passenger named Alex has booked a seat with number 2
+04.11.2020 18:37:23.532 [main] INFO - a passenger named Dima has booked a seat with number 5
+04.11.2020 18:37:23.532 [main] INFO - a passenger named Vova has booked a seat with number 35
+04.11.2020 18:37:23.533 [main] INFO - volume added to com.trains.Cargo with name bad
+04.11.2020 18:37:23.534 [main] INFO - weight added to com.trains.Cargo with name bad
+04.11.2020 18:37:23.534 [main] INFO - volume added to com.trains.Cargo with name table
+04.11.2020 18:37:23.534 [main] INFO - weight added to com.trains.Cargo with name table
+04.11.2020 18:37:23.535 [main] INFO - volume added to com.trains.Cargo with name chair
+04.11.2020 18:37:23.535 [main] INFO - weight added to com.trains.Cargo with name chair
+04.11.2020 18:37:23.535 [main] INFO - the current capacity of the Railway Carriage 4be446df-6e15-4eee-848d-17aa9189661e has been reduced by 10
+04.11.2020 18:37:23.535 [main] INFO - com.trains.Cargo bad was added to the Railway Carriage 4be446df-6e15-4eee-848d-17aa9189661e
+04.11.2020 18:37:23.535 [main] INFO - the current capacity of the Railway Carriage 4be446df-6e15-4eee-848d-17aa9189661e has been reduced by 30
+04.11.2020 18:37:23.536 [main] INFO - com.trains.Cargo table was added to the Railway Carriage 4be446df-6e15-4eee-848d-17aa9189661e
+04.11.2020 18:37:23.536 [main] INFO - the current capacity of the Railway Carriage 4be446df-6e15-4eee-848d-17aa9189661e has been reduced by 50
+04.11.2020 18:37:23.536 [main] INFO - com.trains.Cargo chair was added to the Railway Carriage 4be446df-6e15-4eee-848d-17aa9189661e
+04.11.2020 18:37:23.537 [main] INFO - a machinist named Vadim now receives a salary of 100
+04.11.2020 18:37:23.538 [main] INFO - the driver Vadim was assigned to the locomotive189d90f0-0474-4f6a-8dab-c57af70e0704
+04.11.2020 18:37:23.542 [main] INFO - RailwayCarriage 189d90f0-0474-4f6a-8dab-c57af70e0704 ------> RailwayCarriage d387fd38-ec40-4bf6-b661-a17f7cb91367
+04.11.2020 18:37:23.543 [main] INFO - RailwayCarriage d387fd38-ec40-4bf6-b661-a17f7cb91367 ------> RailwayCarriage 4be446df-6e15-4eee-848d-17aa9189661e

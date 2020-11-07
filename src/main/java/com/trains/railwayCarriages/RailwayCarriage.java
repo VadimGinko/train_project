@@ -25,17 +25,7 @@ public class RailwayCarriage {
 
     public static RailwayCarriage of(int weight, int length){return new RailwayCarriage(weight, length);}
 
-    public void setWeight(int weight) {
-        checkArgument(weight > 0, "weight cannot be less than one");
-        this.weight = weight;
-        log.info("weight added to RailwayCarriage with id {}", this.id);
-    }
 
-    public void setLength(int length) {
-        checkArgument(length > 0, "length cannot be less than one");
-        this.length = length;
-        log.info("length changed in RailwayCarriage with id {}", this.id);
-    }
 
     public void attachRailwayCarriage(RailwayCarriage nRailwayCarriage) throws LocomotiveException {
         if(nRailwayCarriage instanceof Locomotive){

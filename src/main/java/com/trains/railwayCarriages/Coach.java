@@ -14,22 +14,24 @@ import static com.google.common.base.Preconditions.checkNotNull;
 public final class Coach extends RailwayCarriage {
     private final int numberOfSeats;
     private List<Passenger> passengers = new ArrayList<>();
-    private List<Integer> freeSeats = new ArrayList<>();
+    private List<Integer> freeSeats;
 
 
     public Coach(int weight, int length, int numberOfSeats) {
         super(weight, length);
         checkArgument(numberOfSeats > 0, "numberOfSeats cannot be less than one");
         this.numberOfSeats = numberOfSeats;
-        this.generateFreeSeatsList();
+        this.freeSeats = this.generateFreeSeatsList();
     }
 
     public static Coach of(int weight, int length, int numberOfSeats){return new Coach(weight, length, numberOfSeats);}
 
-    private void generateFreeSeatsList(){
+    private List<Integer> generateFreeSeatsList(){
+        List<Integer> freeSeats = new ArrayList<>();
         for (var i = 1;i <= this.numberOfSeats; i++)
-            this.freeSeats.add(i);
+            freeSeats.add(i);
         log.info("a list containing the numbers of available seats is generated");
+        return freeSeats;
     }
 
     //if the passenger has not chosen a seat, he is given the first free seat
@@ -55,12 +57,11 @@ public final class Coach extends RailwayCarriage {
     //when the trip is over
     public void dropPassengers() {
         passengers = new ArrayList<>();
-        freeSeats = new ArrayList<>();
-        this.generateFreeSeatsList();
+        freeSeats = this.generateFreeSeatsList();
     }
 
     public List<Integer> getFreeSeats() {
-        return new ArrayList<Integer>(freeSeats);
+        return new ArrayList<>(freeSeats);
     }
 
     private boolean isThisSeatFree(int seat){

@@ -11,8 +11,6 @@ import static com.google.common.base.Preconditions.*;
 
 @Slf4j
 public final class FreihtCar extends RailwayCarriage {
-
-    @Getter private int currentOccupiedVolume = 0;
     @Getter private final int maxCapacity;
     private final List<Cargo> cargos = new ArrayList<>();
 
@@ -42,17 +40,23 @@ public final class FreihtCar extends RailwayCarriage {
 
     private void removeCargos() {
         this.cargos.clear();
-        this.currentOccupiedVolume = 0;
     }
 
     private boolean reduceCapacity(int volume){
-        if(this.currentOccupiedVolume + volume > this.maxCapacity) {
+        if(this.sumCargosVolume() + volume > this.maxCapacity) {
             log.info("cargo does not fit into the Railway Carriage {}", this.id);
             return false;
         }
-        this.currentOccupiedVolume += volume;
         log.info("the current capacity of the Railway Carriage {} has been reduced by {}", this.id, volume);
         return true;
+    }
+
+    public int sumCargosVolume(){
+        int sum =0;
+        for(var i: this.cargos){
+            sum+= i.getVolume();
+        }
+        return sum;
     }
 
     public List<Cargo> getCargos() {
@@ -62,7 +66,6 @@ public final class FreihtCar extends RailwayCarriage {
     @Override
     public String toString() {
         return Objects.toStringHelper(this)
-                .add("\n\n\ncurrentOccupiedVolume", currentOccupiedVolume)
                 .add("\nmaxCapacity", maxCapacity)
                 .add("\ncargos", cargos)
                 .toString();
@@ -74,13 +77,12 @@ public final class FreihtCar extends RailwayCarriage {
         if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
         FreihtCar freihtCar = (FreihtCar) o;
-        return currentOccupiedVolume == freihtCar.currentOccupiedVolume &&
-                maxCapacity == freihtCar.maxCapacity &&
+        return maxCapacity == freihtCar.maxCapacity &&
                 Objects.equal(cargos, freihtCar.cargos);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hashCode(super.hashCode(), currentOccupiedVolume, maxCapacity, cargos);
+        return Objects.hashCode(super.hashCode(), maxCapacity, cargos);
     }
 }

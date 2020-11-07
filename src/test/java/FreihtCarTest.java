@@ -55,7 +55,7 @@ public class FreihtCarTest {
         freihtCar.addCargo(cargo2);
         freihtCar.addCargo(cargo3);
 
-        assertEquals(freihtCar.getCurrentOccupiedVolume(), 900);
+        assertEquals(freihtCar.sumCargosVolume(), 900);
     }
 
     @Test
@@ -80,7 +80,7 @@ public class FreihtCarTest {
 
         var cargos = freihtCar.takeCargos();
         assertEquals(cargos, ImmutableList.of(cargo, cargo2, cargo3));
-        assertEquals(freihtCar.getCurrentOccupiedVolume(), 0);
+        assertEquals(freihtCar.sumCargosVolume(), 0);
         assertEquals(freihtCar.getCargos(), new ArrayList<>());
     }
 }

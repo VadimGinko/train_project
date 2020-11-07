@@ -44,29 +44,4 @@ public class RailwayCarriageTest {
         assertThrows(LocomotiveException.class, () -> freihtCar.attachRailwayCarriage(locomotive));
     }
 
-    @Test
-    public void test_setWeight_success() {
-        RailwayCarriage railwayCarriage = RailwayCarriage.of(10,20);
-        assertDoesNotThrow(() -> railwayCarriage.setWeight(100));
-        assertEquals(railwayCarriage.getWeight(), 100);
-    }
-
-    @Test
-    public void test_setWeight_invalid() {
-        RailwayCarriage railwayCarriage = RailwayCarriage.of(10,20);
-        assertThrows(IllegalArgumentException.class, () -> railwayCarriage.setWeight(-100));
-    }
-
-    @Test
-    public void test_setLength_success() {
-        RailwayCarriage railwayCarriage = RailwayCarriage.of(10,20);
-        assertDoesNotThrow(() -> railwayCarriage.setLength(200));
-        assertEquals(railwayCarriage.getLength(), 200);
-    }
-
-    @Test
-    public void test_setLength_invalid() {
-        RailwayCarriage railwayCarriage = RailwayCarriage.of(10,20);
-        assertThrows(IllegalArgumentException.class, () -> railwayCarriage.setLength(-100));
-    }
 }

@@ -46,13 +46,11 @@ public class Cargo{
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Cargo cargo = (Cargo) o;
-        return weight == cargo.weight &&
-                volume == cargo.volume &&
-                Objects.equal(name, cargo.name);
+        return Objects.equal(name, cargo.name);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hashCode(name, weight, volume);
+        return Objects.hashCode(name);
     }
 }
